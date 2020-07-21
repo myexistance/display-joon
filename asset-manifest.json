@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/display-joon/static/css/main.16dc108f.chunk.css",
+    "main.js": "/display-joon/static/js/main.f621b6b8.chunk.js",
+    "main.js.map": "/display-joon/static/js/main.f621b6b8.chunk.js.map",
+    "runtime-main.js": "/display-joon/static/js/runtime-main.682c3b41.js",
+    "runtime-main.js.map": "/display-joon/static/js/runtime-main.682c3b41.js.map",
+    "static/css/2.812d3d72.chunk.css": "/display-joon/static/css/2.812d3d72.chunk.css",
+    "static/js/2.5e284307.chunk.js": "/display-joon/static/js/2.5e284307.chunk.js",
+    "static/js/2.5e284307.chunk.js.map": "/display-joon/static/js/2.5e284307.chunk.js.map",
+    "index.html": "/display-joon/index.html",
+    "precache-manifest.6574d5a87a8e7044aeaf973bfe2932e8.js": "/display-joon/precache-manifest.6574d5a87a8e7044aeaf973bfe2932e8.js",
+    "service-worker.js": "/display-joon/service-worker.js",
+    "static/css/2.812d3d72.chunk.css.map": "/display-joon/static/css/2.812d3d72.chunk.css.map",
+    "static/css/main.16dc108f.chunk.css.map": "/display-joon/static/css/main.16dc108f.chunk.css.map",
+    "static/js/2.5e284307.chunk.js.LICENSE.txt": "/display-joon/static/js/2.5e284307.chunk.js.LICENSE.txt",
+    "static/media/Argenda.jpg": "/display-joon/static/media/Argenda.f534691c.jpg",
+    "static/media/Logo.png": "/display-joon/static/media/Logo.6cbec582.png",
+    "static/media/Logo1.png": "/display-joon/static/media/Logo1.e6218907.png",
+    "static/media/coffeeFinder.jpg": "/display-joon/static/media/coffeeFinder.65445111.jpg",
+    "static/media/coffeeFinderUX.jpg": "/display-joon/static/media/coffeeFinderUX.fb8afbfc.jpg",
+    "static/media/earth.jpg": "/display-joon/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/display-joon/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/ionicons.css": "/display-joon/static/media/ionicons.621bd386.svg",
+    "static/media/news.jpg": "/display-joon/static/media/news.b5176f96.jpg",
+    "static/media/newsfinder.jpg": "/display-joon/static/media/newsfinder.4c689659.jpg",
+    "static/media/stripeapi.png": "/display-joon/static/media/stripeapi.080f1f9c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.682c3b41.js",
+    "static/css/2.812d3d72.chunk.css",
+    "static/js/2.5e284307.chunk.js",
+    "static/css/main.16dc108f.chunk.css",
+    "static/js/main.f621b6b8.chunk.js"
+  ]
+}
