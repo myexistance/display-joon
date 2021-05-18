@@ -7,6 +7,7 @@ import news from "../img/news.jpg";
 import newsFinder from "../img/newsfinder.jpg";
 import argenda from "../img/Argenda.jpg";
 import stripe from "../img/stripeapi.png";
+import rank from "../img/RANK.png"
 
 
 class Portfolio extends React.Component {
@@ -24,6 +25,33 @@ class Portfolio extends React.Component {
           </div>
 
           <div className="row">
+          <div className="col-md-4">
+              <div className="work-box">
+
+
+                  <div className="work-img">
+                    <a href="https://rank2021.herokuapp.com/" target="_blank">
+                      <img src={rank} alt="" className="img-fluid" />
+                    </a>
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">MTV News</h2>
+                        <div className="w-more">
+                          <span className="col-sm-8 w-ctegory">
+                            <a>React, Mapbox, Superagent</a>
+                          </span>
+                          <span className="col-sm-4 w-ctegory">
+                          <a href="https://github.com/myexistance/RANK"><i class="fa fa-github fa-lg" aria-hidden="true"> github</i></a>
+                          </span>
+
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
 
           <div className="col-md-4">
             <div className="work-box">
@@ -81,33 +109,7 @@ class Portfolio extends React.Component {
               </div>{/*work-box*/}
             </div>{/*col-md-4*/}
 
-            <div className="col-md-4">
-              <div className="work-box">
-
-
-                  <div className="work-img">
-                    <a href="https://myexistance.github.io/MTVnews/" target="_blank">
-                      <img src={news} alt="" className="img-fluid" />
-                    </a>
-                  </div>
-                  <div className="work-content">
-                    <div className="row">
-                      <div className="col-sm-12">
-                        <h2 className="w-title">MTV News</h2>
-                        <div className="w-more">
-                          <span className="col-sm-8 w-ctegory">
-                            <a>Materialize-css grunt Jquery</a>
-                          </span>
-                          <span className="col-sm-4 w-ctegory">
-                          <a href="https://github.com/myexistance/MTVnews"><i class="fa fa-github fa-lg" aria-hidden="true"> github</i></a>
-                          </span>
-
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-              </div>
-            </div>
+            
 
             <div className="col-md-4">
               <div className="work-box">
