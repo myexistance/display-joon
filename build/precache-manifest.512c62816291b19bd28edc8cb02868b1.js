@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab9f6bf9000567bb9d8932744f582514",
+    "revision": "ee03a210e04df6661d3043e391074c9f",
     "url": "/display-joon/index.html"
   },
   {
-    "revision": "81d70b01c7ced07e1dbf",
-    "url": "/display-joon/static/css/2.812d3d72.chunk.css"
+    "revision": "5c20ce6334931954f78f",
+    "url": "/display-joon/static/css/2.3457026e.chunk.css"
   },
   {
-    "revision": "d17cde2ecccc7528cb3a",
-    "url": "/display-joon/static/css/main.16dc108f.chunk.css"
+    "revision": "f3d97ec546b6163ec484",
+    "url": "/display-joon/static/css/main.a6755694.chunk.css"
   },
   {
-    "revision": "81d70b01c7ced07e1dbf",
-    "url": "/display-joon/static/js/2.5e284307.chunk.js"
+    "revision": "5c20ce6334931954f78f",
+    "url": "/display-joon/static/js/2.901ea06f.chunk.js"
   },
   {
     "revision": "0f24eaf990f24b4c8eca5dc0d1b78678",
-    "url": "/display-joon/static/js/2.5e284307.chunk.js.LICENSE.txt"
+    "url": "/display-joon/static/js/2.901ea06f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d17cde2ecccc7528cb3a",
-    "url": "/display-joon/static/js/main.f621b6b8.chunk.js"
+    "revision": "f3d97ec546b6163ec484",
+    "url": "/display-joon/static/js/main.b16435a6.chunk.js"
   },
   {
     "revision": "e028ec40c94133cd29b5",
@@ -32,6 +32,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/display-joon/static/media/Argenda.f534691c.jpg"
   },
   {
+    "revision": "4e36fc09fb95a004f9323de9217fb87e",
+    "url": "/display-joon/static/media/ExpenseTracker.4e36fc09.png"
+  },
+  {
     "revision": "6cbec58235bcc812a3190ff51d13fa8d",
     "url": "/display-joon/static/media/Logo.6cbec582.png"
   },
@@ -40,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/display-joon/static/media/Logo1.e6218907.png"
   },
   {
-    "revision": "65445111aebd93ece87886c83b891062",
-    "url": "/display-joon/static/media/coffeeFinder.65445111.jpg"
+    "revision": "05efec3853c3d1869f803966f59bbc01",
+    "url": "/display-joon/static/media/RANK.05efec38.png"
   },
   {
-    "revision": "fb8afbfc0f689de58dfbc6d10931fa84",
-    "url": "/display-joon/static/media/coffeeFinderUX.fb8afbfc.jpg"
+    "revision": "65445111aebd93ece87886c83b891062",
+    "url": "/display-joon/static/media/coffeeFinder.65445111.jpg"
   },
   {
     "revision": "67af05e12311bac06327b43ca31e166b",
@@ -86,14 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "621bd386841f74e0053cb8e67f8a0604",
     "url": "/display-joon/static/media/ionicons.621bd386.svg"
-  },
-  {
-    "revision": "b5176f9613974474226413eea4c1d125",
-    "url": "/display-joon/static/media/news.b5176f96.jpg"
-  },
-  {
-    "revision": "4c68965961210871e3a0e4c4eb3d348c",
-    "url": "/display-joon/static/media/newsfinder.4c689659.jpg"
   },
   {
     "revision": "080f1f9c725dcfe6a824849942ed5a36",

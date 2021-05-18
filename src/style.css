@@ -711,6 +711,7 @@ PORTFOLIO
 .work-img {
   display: block;
   overflow: hidden;
+  height: 260px;
 }
 
 .work-img img {

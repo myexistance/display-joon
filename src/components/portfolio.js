@@ -2,12 +2,10 @@ import React from "react";
 
 //import stock
 import coffee from "../img/coffeeFinder.jpg";
-import coffeeUX from "../img/coffeeFinderUX.jpg";
-import news from "../img/news.jpg";
-import newsFinder from "../img/newsfinder.jpg";
 import argenda from "../img/Argenda.jpg";
 import stripe from "../img/stripeapi.png";
 import rank from "../img/RANK.png"
+import expense from "../img/ExpenseTracker.png"
 
 
 class Portfolio extends React.Component {
@@ -37,7 +35,7 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-12">
-                        <h2 className="w-title">MTV News</h2>
+                        <h2 className="w-title">RANK</h2>
                         <div className="w-more">
                           <span className="col-sm-8 w-ctegory">
                             <a>React, Mapbox, Superagent</a>
@@ -109,6 +107,34 @@ class Portfolio extends React.Component {
               </div>{/*work-box*/}
             </div>{/*col-md-4*/}
 
+                      <div className="col-md-4">
+              <div className="work-box">
+
+
+                  <div className="work-img">
+                    <a href="https://myexistance.github.io/react-expense-tracker/" target="_blank">
+                      <img src={expense} alt="" className="img-fluid" />
+                    </a>
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Expense Tracker</h2>
+                        <div className="w-more">
+                          <span className="col-sm-8 w-ctegory">
+                            <a>React, Context API</a>
+                          </span>
+                          <span className="col-sm-4 w-ctegory">
+                          <a href="https://github.com/myexistance/react-expense-tracker"><i class="fa fa-github fa-lg" aria-hidden="true"> github</i></a>
+                          </span>
+
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+
             
 
             <div className="col-md-4">
@@ -132,12 +158,12 @@ class Portfolio extends React.Component {
                           <a href="https://github.com/myexistance/argenda"><i class="fa fa-github fa-lg" aria-hidden="true"> github</i></a>
                           </span>
 
-                        </div>{/*w-more*/}
-                      </div>{/*col-sm-12*/}
-                    </div>{/*row*/}
-                  </div>{/*work-content*/}
-              </div>{/*work-box*/}
-            </div>{/*col-md-4*/}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
 
 
           </div>{/*row*/}
