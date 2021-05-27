@@ -1,0 +1,21 @@
+{
+  "projects": [
+    { "id": 1, 
+      "title": "RANK", 
+      "category": "React, MapBox, Superagent", 
+      "github": "https://github.com/myexistance/RANK"},
+    { "id": 2, 
+      "title": "T-shirt selling app using Stripe", 
+      "category":"NodeJS, Express, Stripe", 
+      "github": "https://github.com/myexistance/StripeAPI"},
+    { "id": 3, 
+      "title": "Coffee Finder", 
+      "category": "HTML5 CSS3 Bootstrap VanillaJS", 
+      "github": "https://github.com/myexistance/CoffeeFinderFinal"},
+    { "id": 4, 
+      "title": "Expense Tracker", 
+      "category": "React, Context API", 
+      "github": "https://github.com/myexistance/react-expense-tracker"}   
+  ]
+
+}

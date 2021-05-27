@@ -1,0 +1,169 @@
+<div className="col-md-4">
+              <div className="work-box">
+
+
+                  <div className="work-img">
+                    <a href="https://myexistance.github.io/argenda/" target="_blank">
+                      <img src={argenda} alt="" className="img-fluid" />
+                    </a>
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">2020 Diary</h2>
+                        <div className="w-more">
+                          <span className="col-sm-8 w-ctegory">
+                            <a>mdbreact ReactJS</a>
+                          </span>
+                          <span className="col-sm-4 w-ctegory">
+                          <a href="https://github.com/myexistance/argenda"><i class="fa fa-github fa-lg" aria-hidden="true"> github</i></a>
+                          </span>
+
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+
+ {/* <div className="col-md-4">
+              <div className="work-box">
+
+
+                  <div className="work-img">
+                    <a href="https://rank2021.herokuapp.com/" target="_blank">
+                      <img src={rank} alt="" className="img-fluid" />
+                    </a>
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">RANK</h2>
+                        <div className="w-more">
+                          <span className="col-sm-8 w-ctegory">
+                            <a>React, Mapbox, Superagent</a>
+                          </span>
+                          <span className="col-sm-4 w-ctegory">
+                          <a href="https://github.com/myexistance/RANK"><i class="fa fa-github fa-lg" aria-hidden="true"> github</i></a>
+                          </span>
+
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+
+          <div className="col-md-4">
+            <div className="work-box">
+
+
+                <div className="work-img">
+                  <a href="https://joonstripe.herokuapp.com/" target="_blank">
+                    <img src={stripe} alt="" className="img-fluid" />
+                  </a>
+                </div>
+                <div className="work-content">
+                  <div className="row">
+                    <div className="col-sm-12">
+                      <h2 className="w-title">T-shirt selling app using Stripe</h2>
+                      <div className="w-more">
+                        <span className="col-sm-8 w-ctegory">
+                          <a>NodeJS, Express, Heroku deploy</a>
+                        </span>
+                        <span className="col-sm-4 w-ctegory">
+                        <a href="https://github.com/myexistance/StripeAPI"><i class="fa fa-github fa-lg" aria-hidden="true"> github</i></a>
+                        </span>
+
+                      </div>{/*w-more*/}
+                    </div>{/*col-sm-12*/}
+                  </div>{/*row*/}
+                </div>{/*work-content*/}
+            </div>{/*work-box*/}
+          </div>{/*col-md-4*/}
+
+            <div className="col-md-4">
+              <div className="work-box">
+
+
+                  <div className="work-img">
+                    <a href="https://myexistance.github.io/CoffeeFinderFinal/" target="_blank">
+                      <img src={coffee} alt="" className="img-fluid" />
+                    </a>
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Coffee Finder</h2>
+                        <div className="w-more">
+                          <span className="col-sm-8 w-ctegory">
+                            <a>HTML5 CSS3 Bootstrap VanillaJS</a>
+                          </span>
+                          <span className="col-sm-4 w-ctegory">
+                          <a href="https://github.com/myexistance/CoffeeFinderFinal"><i class="fa fa-github fa-lg" aria-hidden="true"> github</i></a>
+                          </span>
+
+                        </div>{/*w-more*/}
+                      </div>{/*col-sm-12*/}
+                    </div>{/*row*/}
+                  </div>{/*work-content*/}
+              </div>{/*work-box*/}
+            </div>col-md-4 */}
+
+            {/* <div className="col-md-4">
+              <div className="work-box">
+
+
+                  <div className="work-img">
+                    <a href="https://myexistance.github.io/react-expense-tracker/" target="_blank">
+                      <img src={expense} alt="" className="img-fluid" />
+                    </a>
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Expense Tracker</h2>
+                        <div className="w-more">
+                          <span className="col-sm-8 w-ctegory">
+                            <a>React, Context API</a>
+                          </span>
+                          <span className="col-sm-4 w-ctegory">
+                          <a href="https://github.com/myexistance/react-expense-tracker"><i class="fa fa-github fa-lg" aria-hidden="true"> github</i></a>
+                          </span>
+
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div> */}
+
+            
+
+            {/* <div className="col-md-4">
+              <div className="work-box">
+
+
+                  <div className="work-img">
+                    <a href="https://myexistance.github.io/argenda/" target="_blank">
+                      <img src={argenda} alt="" className="img-fluid" />
+                    </a>
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">2020 Diary</h2>
+                        <div className="w-more">
+                          <span className="col-sm-8 w-ctegory">
+                            <a>mdbreact ReactJS</a>
+                          </span>
+                          <span className="col-sm-4 w-ctegory">
+                          <a href="https://github.com/myexistance/argenda"><i class="fa fa-github fa-lg" aria-hidden="true"> github</i></a>
+                          </span>
+
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>

@@ -95,9 +95,9 @@ class About extends React.Component {
                       {this.state.about_me.map(content => {
                         return (
                           <p className="lead" key={content.id}>
-                          Hi, I am a Front-End developer from Wellington, New Zealand. I’m interested in frontend and full-stack development roles. My experience with JavaScript extends across the full-stack spectrum and I enjoy leveraging various libraries and frameworks to create modular components and scalable applications. I relish any opportunity to work with new technologies while obtaining mastery with my other skills. Ultimately, I want to work on bringing inspirational ideas to life.  
+                          Hi, I am a Front-End developer from Wellington, New Zealand. I’m interested in frontend and full-stack development roles. My experience with JavaScript extends across the full-stack spectrum and I enjoy leveraging various libraries and frameworks to create modular components and scalable applications. I relish any opportunity to work with new technologies while obtaining mastery with my other skills. Ultimately, I want to work on bringing inspirational ideas to life.
                           I enjoy building everything from small business sites to IoT interactive apps.
-                            If you'd like to know more I'm always open to chat so feel free to shoot me a message!   You can check out my code at: https://github.com/myexistance. 
+                          If you'd like to know more I'm always open to chat so feel free to shoot me a message! You can check out my code at:https://github.com/myexistance. 
                           Experienced with HTML/CSS, JavaScript, React/Redux, Node.js, Express, MongoDB, Bootstrap, Shopify
                           </p>
                         );
